@@ -1,6 +1,7 @@
 # Baekjoon
 baekjoon solutions
 
+```plaintext
 baekjoon/
  ├── step/              # 단계별로 풀어보기
  │    ├── bronze/
@@ -14,3 +15,4 @@ baekjoon/
  │    ├── binary_search/
  │    └── ...
  └── implementation/    # 구현 문제
+ ```
